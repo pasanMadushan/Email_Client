@@ -1,0 +1,16 @@
+Official:  nimal,nimal@gmail.com,ceo
+Office_friend:  kamal,kamal@gmail.com,clerk,2000/12/12
+Personal:  sunil,<nick-name>,sunil@gmail.com,2019/11/31
+Personal:  pasan,pasii,pasanmadushan@gmail.com,2019/11/31
+Personal:  sunil,<nick-name>,sunil@gmail.com,2019/12/01
+Official: pasanmadushan,pasanmadushan@gmai.com,CEO
+Official:  nimal,nimal@gmail.com,ceo
+Official:  nimal,nimal@gmail.com,ceo
+Official:  nimal,nimal@gmail.com,ceo
+Official:  nimal,nimal@gmail.com,ceo
+Official:  nimal,nimal@gmail.com,ceo
+Office_friend:  kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend:  kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend:  kamal,kamal@gmail.com,clerk,2000/12/12
+Office_friend:  kamal,kamal@gmail.com,clerk,2000/12/12
+Official:  nimal,nimal@gmail.com,ceo
